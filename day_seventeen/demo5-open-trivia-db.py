@@ -1,0 +1,1 @@
+# opentdb.com/api_config.php - we can take questions from here
